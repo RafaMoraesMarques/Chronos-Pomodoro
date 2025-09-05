@@ -1,7 +1,7 @@
 import { useTaskContext } from '../../contexts/TaskContext/useTextContext';
 import { getNextCycle } from '../../utils/getNextCycle';
 import { getNextCycleType } from '../../utils/getNextCycleType';
-import styles from './styles.module.css';
+import styles from './Styles.module.css';
 
 export function Cycles() {
   const { state } = useTaskContext();

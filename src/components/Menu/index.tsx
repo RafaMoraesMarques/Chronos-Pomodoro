@@ -5,7 +5,7 @@ import {
   SettingsIcon,
   SunIcon,
 } from 'lucide-react';
-import styles from './styles.module.css';
+import styles from './Styles.module.css';
 import { useState, useEffect } from 'react';
 import { RouterLink } from '../RouterLink';
 
